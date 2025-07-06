@@ -718,7 +718,6 @@ img {
   gap: 10px;
 }
 
-/* ====== FOOTER FIXES ====== */
 .footer-wrapper {
   display: flex;
   align-items: baseline;
@@ -790,7 +789,6 @@ img {
   margin-left: 16px;
 }
 
-/* ====== MODAL FIXES ====== */
 .modal-backdrop {
   position: fixed;
   top: 0;
