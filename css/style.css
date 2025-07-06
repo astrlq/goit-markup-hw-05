@@ -768,6 +768,8 @@ img {
 }
 
 .modal-privacy-label {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
